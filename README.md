@@ -55,6 +55,13 @@ C-learning/
 │   ├── 04_memory_size.c
 │   └── 05_escape_sequence.c
 │
+├── Practice-Problems_01/
+│   ├── Circle-area.c
+│   ├── Cylinder-volume.c
+│   ├── Rectangle-area.c
+│   ├── Simple-interest.c
+│   └── temp-converter.c
+│
 README.md
 ```
 
