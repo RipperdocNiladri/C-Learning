@@ -49,18 +49,35 @@ My goal is not only to learn C but also to build a strong programming foundation
 C-learning/
 │
 ├── Chapter_01/
-│   ├── 01_hello_world.c
-│   ├── 02_datatypes.c
-│   ├── 03_test.c
-│   ├── 04_memory_size.c
-│   └── 05_escape_sequence.c
+│         ├── learning_01/
+│         │   ├── 01_hello_world.c
+│         │   ├── 02_datatypes.c
+│         │   ├── 03_test.c
+│         │   ├── 04_memory_size.c
+│         │   └── 05_escape_sequence.c
+│         │
+│         └── practice_problems_01/
+│             ├── 01_rectangle_area.c
+│             ├── 02_circle_area.c
+│             ├── 03_cylinder_volume.c
+│             ├── 04_simple_interest.c
+│             └── 05_temp_converter.c
 │
-├── Practice-Problems_01/
-│   ├── Circle-area.c
-│   ├── Cylinder-volume.c
-│   ├── Rectangle-area.c
-│   ├── Simple-interest.c
-│   └── temp-converter.c
+├── Chapter_02/
+│         ├── learning_02/
+│         │   ├── 01_variables.c
+│         │   ├── 
+│         │   ├── 
+│         │   ├── 
+│         │   └── 
+│         │
+│         └── practice_problems_02/
+│             ├── 
+│             ├── 
+│             ├── 
+│             ├── 
+│             └── 
+│   
 │
 README.md
 ```
