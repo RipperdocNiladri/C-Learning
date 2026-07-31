@@ -66,8 +66,8 @@ C-learning/
 ├── Chapter_02/
 │         ├── learning_02/
 │         │   ├── 01_variables.c
-│         │   ├── 
-│         │   ├── 
+│         │   ├── 02_arithmetic_operators.c
+│         │   ├── 03_type_conversion.c
 │         │   ├── 
 │         │   └── 
 │         │
