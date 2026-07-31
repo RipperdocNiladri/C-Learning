@@ -66,17 +66,13 @@ C-learning/
 ├── Chapter_02/
 │         ├── learning_02/
 │         │   ├── 01_variables.c
-│         │   ├── 02_arithmetic_operators.c
-│         │   ├── 03_type_conversion.c
-│         │   ├── 
-│         │   └── 
+│         │   ├── 02_typecasting.c
+│         │   ├── 03_arithmetic_operators.c
+│         │   ├── 04_type_conversion.c
+│         │   └── 05_operator_precedence.c
 │         │
-│         └── practice_problems_02/
-│             ├── 
-│             ├── 
-│             ├── 
-│             ├── 
-│             └── 
+│         └── practice_problems_02/ 
+│             └── 01_problem.c
 │   
 │
 README.md
