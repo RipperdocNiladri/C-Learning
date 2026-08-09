@@ -25,7 +25,7 @@ My goal is not only to learn C but also to build a strong programming foundation
 * ✅ Input and Output (`printf`, `scanf`)
 * ✅ Operators
 * ✅ Escape Sequence Characters
-* ⏳ Conditional Statements (`if`, `if-else`, `switch`)
+* ✅ Conditional Statements (`if`, `if-else`, `switch`)
 * ⏳ Loops (`for`, `while`, `do-while`)
 * ⏳ Functions
 * ⏳ Arrays
