@@ -1,8 +1,8 @@
+// Whether your number is divisible by 7 or not.
 #include <stdio.h>
 
 int main()
 {
-    printf("Wheather your number is divisible by 7 or not\n");
     int a;
     printf("Enter your number: ");
     scanf("%d", &a);

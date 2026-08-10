@@ -1,9 +1,10 @@
+// Convert seconds to hours, minutes, and seconds
 #include <stdio.h>
 
 int main()
 {
      int S;
-     printf("Enter your tortal time in seconds: ");
+     printf("Enter your total time in seconds: ");
      scanf("%d", &S);
 
      // int M = S / 60;
