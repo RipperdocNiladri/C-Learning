@@ -146,29 +146,6 @@ README.md
 
 ---
 
-## 💻 How to Run
-
-### Compile
-
-```bash
-gcc filename.c -o program
-```
-
-### Run
-
-**Linux/macOS**
-
-```bash
-./program
-```
-
-**Windows**
-
-```bash
-program.exe
-```
-
----
 
 ## 🛠 Compiler Used
 
