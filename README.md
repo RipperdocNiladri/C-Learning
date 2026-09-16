@@ -4,8 +4,6 @@ Welcome to my **C Programming Learning Journey**! 👋
 
 This repository documents my journey of learning the C programming language from the ground up. Every program here represents a concept I've learned and practiced.
 
-My goal is not only to learn C but also to build a strong programming foundation for future technologies like **C++**, **Python**, **Data Structures & Algorithms**, **Operating Systems**, **Embedded Systems**, **Artificial Intelligence**, and **Software Development**.
-
 ---
 
 ## 🎯 Goals
@@ -171,4 +169,4 @@ Consider giving it a ⭐ on GitHub.
 
 > "Every expert was once a beginner. Every program you write makes you a better programmer."
 
-Happy Coding! 🚀
+Lets improve!
