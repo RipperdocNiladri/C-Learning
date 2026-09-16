@@ -162,7 +162,3 @@ README.md
 ## ⭐ If you find this repository helpful
 
 Consider giving it a ⭐ on GitHub.
-
----
-
-## Practice | Practice | Practice 
