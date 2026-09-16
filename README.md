@@ -165,8 +165,4 @@ Consider giving it a ⭐ on GitHub.
 
 ---
 
-## 📖 Learning Never Stops
-
-> "Every expert was once a beginner. Every program you write makes you a better programmer."
-
-Lets improve!
+## Practice | Practice | Practice 
