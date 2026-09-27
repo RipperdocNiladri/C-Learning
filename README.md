@@ -117,7 +117,7 @@ C-Learning/
 │    │   │   ├── 03_postfix.c
 │    │   │   └── 04_prefix.c
 │    │   │
-│    │   ├── 02_02_compound_assignment_operators/    
+│    │   ├── 02_compound_assignment_operators/    
 │    │   │   ├── 01.c
 │    │   │   ├── 02.c
 │    │   │   ├── 03.c
@@ -135,10 +135,10 @@ C-Learning/
 │    │       └── continue.c
 │    │
 │    └── practice_problems_04/
-│        ├── 01_problrm.c
-│        ├── 02_problrm.c
-│        ├── 03_problrm.c
-│        └── 04_problrm.c
+│        ├── 01_problem.c
+│        ├── 02_problem.c
+│        ├── 03_problem.c
+│        └── 04_problem.c
 │        
 │
 README.md
