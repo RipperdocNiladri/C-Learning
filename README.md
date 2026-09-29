@@ -160,8 +160,6 @@ README.md
 
 **Niladri Pal**
 
-* GitHub: **[@RipperdocNiladri](https://github.com/RipperdocNiladri)**
-
 ---
 
 ## ⭐ If you find this repository helpful
