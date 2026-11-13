@@ -59,7 +59,11 @@ C-Learning/
 │         ├── 02_circle_area.c
 │         ├── 03_cylinder_volume.c
 │         ├── 04_simple_interest.c
-│         └── 05_temp_converter.c
+│         ├── 05_temp_converter.c
+│         ├── 06_sphere_volume.c
+│         ├── 07_electrical_resistance.c
+│         ├── 08_storage_converter_1.c
+│         └── 09_storage_converter_2.c
 │
 ├── Chapter_02/
 │     ├── learning_02/
