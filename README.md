@@ -51,8 +51,9 @@ C-Learning/
 │     │   ├── 01_hello_world.c
 │     │   ├── 02_datatypes.c
 │     │   ├── 03_test.c
-│     │   ├── 04_memory_size.c
-│     │   └── 05_escape_sequence.c
+│     │   ├── 04_test.c
+│     │   ├── 05_memory_size.c
+│     │   └── 06_escape_sequence.c
 │     │
 │     └── practice_problems_01/
 │         ├── 01_rectangle_area.c
